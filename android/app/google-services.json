@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989323307066",
+    "firebase_url": "https://schedule-a3cf6.firebaseio.com",
+    "project_id": "schedule-a3cf6",
+    "storage_bucket": "schedule-a3cf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989323307066:android:8ead9b25eb8921db5bed03",
+        "android_client_info": {
+          "package_name": "com.proto.schedule_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989323307066-20hgf67o6i8m0s70pegghjcg9vlj2ofm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proto.schedule_app",
+            "certificate_hash": "dfd5e2b5dfe24cdd1cec18508e3ba55691d5768f"
+          }
+        },
+        {
+          "client_id": "989323307066-j9jm3g6uih0cjuutuorihn7gieiiv3q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADMSeM3IaFtO9Opi9mcHioMcZVnFnKldA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989323307066-j9jm3g6uih0cjuutuorihn7gieiiv3q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
